@@ -18,7 +18,7 @@
 बस नीचे दिए गए बटन पर क्लिक करें और डाउनलोड करें:
 
 <p align="center">
-  <a href="./audacity-2.2.1.zip">
+  <a href="blob:https://github.com/aa0f8878-e027-446b-9fb6-a4d82e698f30">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20ZIP-23MB-brightgreen?style=for-the-badge&logo=download" />
   </a>
 </p>
